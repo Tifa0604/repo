@@ -17,7 +17,7 @@
 
 - Ir a la carpeta db y abrir el archivo: api-crud.sql, luego:
 - Copiar todo el contenido:
-Ctrl + A
+Ctrl + A, 
 Ctrl + C
 
 #### Configuración en XAMPP
@@ -31,7 +31,7 @@ Ctrl + C
 
 
 ### 4. Ejecutar el backend (API)
-- Abrir una terminal y ejecutar:
+- Abrir una terminal dentro del visual y ejecutar:
   
 1. cd api
 2. cd src
