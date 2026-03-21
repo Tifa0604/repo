@@ -23,10 +23,11 @@ Ctrl + C
 #### Configuración en XAMPP
 
 - Abrir XAMPP.
-- Iniciar Apache y MySQL.
+- Iniciar Apache y MySQL
 - Clic en Admin (MySQL)
 - Ir a la pestaña SQL
-- Pegar el contenido (Ctrl + V)
+- Poner la siguiente instrucción: drop database `api-crud` y ejecutar
+- Luego pegar el contenido (la base de datos), Ctrl + V
 -Ejecutar
 
 
